@@ -2,7 +2,7 @@
 	export let title, body;
 </script>
 
-<div class="flex flex-col p-4 mb-4 rounded-xl bg-green-900">
-	<h3 class="text-3xl text-gray-100 pb-2">{title}</h3>
-	<p class="text-gray-100 text-xl">{body}</p>
+<div class="mt-4 flex flex-col rounded-xl bg-green-900 p-4">
+	<h3 class="pb-2 text-3xl text-gray-100">{title}</h3>
+	<p class="text-xl text-gray-100">{body}</p>
 </div>

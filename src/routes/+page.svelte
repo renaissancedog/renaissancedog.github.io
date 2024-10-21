@@ -2,15 +2,15 @@
 	import Row from '../lib/components/Row.svelte';
 </script>
 
-<main class="text-gray-100 text-xl m-auto w-full lg:w-1/2">
-	<h1 class="text-teal-400 mb-4 text-5xl text-center font-bold">About Me!</h1>
+<main class="m-auto w-full text-xl text-gray-100 lg:w-1/2">
+	<h1 class="mb-4 text-center text-5xl font-bold text-teal-400">About Me!</h1>
 	<Row
 		title="My Background"
 		body="I am a sophomore at Ronald Reagan High School in San Antonio, Texas. Welcome to my website!"
 	/>
 	<Row
 		title="My Academic Interests"
-		body="I am interested in mathematics (combinatorics and probability theory in particular) and computer science."
+		body="I am interested in mathematics (combinatorics and probability in particular) and computer science."
 	/>
 	<Row
 		title="My Hobbies"

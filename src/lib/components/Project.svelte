@@ -1,8 +1,13 @@
 <script>
-  export let title, body, link
+	export let title, body, link;
 </script>
-<div class="flex flex-col p-4 mb-4 bg-green-900 rounded-xl">
-  <h3 class="text-3xl text-gray-100 pb-2">{title}</h3>
-  <p class="text-gray-100 text-xl">{body}</p>
-  <a class="text-cyan-400 text-lg underline break-words" target="_blank" href={link}>{link}</a>
+
+<div class="mt-4 flex flex-col rounded-xl bg-green-900 p-4">
+	<h3 class="pb-2 text-3xl text-gray-100">{title}</h3>
+	<p class="text-xl text-gray-100">{body}</p>
+	<a
+		class="break-words text-lg text-cyan-400 underline"
+		target="_blank"
+		href={link}>{link}</a
+	>
 </div>

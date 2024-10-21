@@ -1,24 +1,27 @@
 <script>
-	import { base } from '$app/paths';
-	import Navbar from '../../lib/components/Navbar.svelte';
 	import Row from '../../lib/components/Row.svelte';
 </script>
 
-<main class="text-xl m-auto w-full lg:w-1/2">
-	<h1 class="text-5xl text-center font-bold text-teal-400 mb-2">Leadership Positions</h1>
+<main class="m-auto w-full text-xl lg:w-1/2">
+	<h1 class="mb-2 text-center text-5xl font-bold text-teal-400">
+		Leadership Positions
+	</h1>
+	<Row
+		title="San Antonio Math Circle Co-Founder, Webmaster (2024)"
+		body="Founded a competitive math circle with friends"
+	/>
 	<Row
 		title="UIL Mathematics team captain (2024)"
 		body="Leads and coaches the members of our team"
 	/>
 	<Row
-		title="San Antonio Math Circle Co-Founder (2024)"
-		body="Founded a competitive math circle with friends"
+		title="Math Club Leader (2024)"
+		body="Directs a program exploring fun math at local library - targeted at middle schoolers"
 	/>
 	<Row
-		title="Algebra Club Leader (2024)"
-		body="Directs an algebra program at local library targeted at middle schoolers"
+		title="Webmaster, Reagan UIL Team (2024)"
+		body="Maintains team website"
 	/>
-	<Row title="Webmaster, Reagan UIL Team (2024)" body="Maintains team website" />
 	<Row
 		title="Co-Founder, Renaissance Dog Walkers (2022-2023)"
 		body="Started and managed a dog-walking business with friends"
