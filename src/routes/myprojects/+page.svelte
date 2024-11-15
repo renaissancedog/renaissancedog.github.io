@@ -26,6 +26,11 @@
 		body="Solutions I wrote in Java - primarily USACO, also some DSA and UIL"
 	/>
 	<Project
+		link="https://renaissancedog.github.io/rrcsclub/"
+		title="Reagan Computer Science Club Website"
+		body="School Club website rebuilt with Svelte"
+	/>
+	<Project
 		link="https://reagan-uil.github.io"
 		title="Reagan HS UIL Website"
 		body="Our school UIL team's webpage"
