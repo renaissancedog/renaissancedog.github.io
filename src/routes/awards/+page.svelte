@@ -36,7 +36,6 @@
 		<h2 class="my-2 text-4xl text-teal-400">Test Scores</h2>
 		<Row title="AP Scores" body="5's: AP Human Geography" />
 		<Row
-			@html
 			title="Standardized Test Scores"
 			body="PSAT/NMSQT: 1500 (Math 760, R&W 740) October 2024 <br> PSAT 8/9: 1440 (Math 720, R&W 720, perfect score) October 2023"
 		/>
