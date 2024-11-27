@@ -3,7 +3,7 @@
 </script>
 
 <div
-	class="p-auto flex h-auto flex-col items-center justify-center bg-gray-900 p-4 text-center text-2xl text-gray-100"
+	class="p-auto flex h-auto flex-col items-center justify-center p-4 text-center text-2xl text-gray-300"
 >
 	<a
 		href="{base}/"

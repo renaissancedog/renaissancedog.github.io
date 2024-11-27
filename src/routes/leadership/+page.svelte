@@ -3,7 +3,7 @@
 </script>
 
 <main class="m-auto w-full text-xl lg:w-1/2">
-	<h1 class="mb-2 text-center text-5xl font-bold text-teal-400">
+	<h1 class="mb-2 text-center text-5xl font-bold text-gray-300">
 		Leadership Positions
 	</h1>
 	<Row

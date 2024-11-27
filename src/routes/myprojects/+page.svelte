@@ -3,7 +3,7 @@
 </script>
 
 <main class="m-auto w-full text-xl lg:w-1/2">
-	<h1 class="mb-2 text-center text-5xl font-bold text-teal-400">Projects</h1>
+	<h1 class="mb-2 text-center text-5xl font-bold text-gray-300">Projects</h1>
 	<p class="mb-2 ml-2 text-xl text-white">Stuff that I've built.</p>
 	<Project
 		link="https://renaissancedog.github.io/reagan-schedule"
