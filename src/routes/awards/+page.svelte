@@ -7,11 +7,11 @@
 	<div class="text-center md:text-left">
 		<h2 class="my-2 text-4xl text-gray-300">Mathematical Awards</h2>
 		<Row
-			title="AIME Qualifier (2023)"
-			body="Was top ~6% of all AMC 10 test takers"
+			title="AIME Qualifier (2023, 2024)"
+			body="Was top ~8% of all AMC 10 test takers"
 		/>
 		<Row
-			title="1st Place, AMC 10, Reagan High School (2023)"
+			title="1st Place, AMC 10, Reagan High School (2023, 2024)"
 			body="Scored highest on the AMC 10 at Reagan"
 		/>
 		<h2 class="my-2 text-4xl text-gray-300">Computer Science Awards</h2>
