@@ -16,6 +16,10 @@
 		/>
 		<h2 class="my-2 text-4xl text-gray-300">Computer Science Awards</h2>
 		<Row
+			title="USACO Silver"
+			body="Qualified to 3rd-highest division of national algorithmic programming contest"
+		/>
+		<Row
 			title="UIL Computer Science Regional Qualifier (2024)"
 			body="Member of the top team in District competitions"
 		/>
