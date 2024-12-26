@@ -2,8 +2,8 @@
 	import Row from '../lib/components/Row.svelte';
 </script>
 
-<main class="m-auto w-full text-xl text-gray-100 lg:w-1/2">
-	<h1 class="mb-4 text-center text-5xl font-bold text-gray-300">About Me!</h1>
+<main class="m-auto w-full text-xl lg:w-1/2">
+	<h1 class="mb-4 text-center text-5xl font-bold">About Me!</h1>
 	<Row
 		title="My Background"
 		body="I am a sophomore at Ronald Reagan High School in San Antonio, Texas. Welcome to my website!"

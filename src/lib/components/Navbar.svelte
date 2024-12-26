@@ -3,11 +3,11 @@
 </script>
 
 <div
-	class="p-auto flex h-auto flex-col items-center justify-center p-4 text-center text-2xl text-gray-300"
+	class="p-auto flex h-auto flex-col items-center justify-center p-4 text-center text-2xl"
 >
 	<a
 		href="{base}/"
-		class="mb-4 max-w-fit rounded-lg border-2 border-solid border-white p-2 text-3xl"
+		class="mb-4 max-w-fit rounded-lg border-2 border-solid border-black p-2 text-3xl"
 	>
 		<h2>William Liu</h2>
 	</a>

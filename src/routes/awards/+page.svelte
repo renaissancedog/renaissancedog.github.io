@@ -3,9 +3,9 @@
 </script>
 
 <main class="m-auto w-full text-xl lg:w-1/2">
-	<h1 class="mb-8 text-center text-5xl font-bold text-gray-300">Awards</h1>
+	<h1 class="mb-8 text-center text-5xl font-bold">Awards</h1>
 	<div class="text-center md:text-left">
-		<h2 class="my-2 text-4xl text-gray-300">Mathematical Awards</h2>
+		<h2 class="my-2 text-4xl">Mathematical Awards</h2>
 		<Row
 			title="AIME Qualifier (2023, 2024)"
 			body="Was top ~8% of all AMC 10 test takers"
@@ -14,7 +14,7 @@
 			title="1st Place, AMC 10, Reagan High School (2023, 2024)"
 			body="Scored highest on the AMC 10 at Reagan"
 		/>
-		<h2 class="my-2 text-4xl text-gray-300">Computer Science Awards</h2>
+		<h2 class="my-2 text-4xl">Computer Science Awards</h2>
 		<Row
 			title="USACO Silver"
 			body="Qualified to 3rd-highest division of national algorithmic programming contest"
@@ -23,12 +23,12 @@
 			title="UIL Computer Science Regional Qualifier (2024)"
 			body="Member of the top team in District competitions"
 		/>
-		<h2 class="my-2 text-4xl text-gray-300">Academic Awards</h2>
+		<h2 class="my-2 text-4xl">Academic Awards</h2>
 		<Row
 			title="Straight A's (2020-2024)"
 			body="All semester grades are 90 or higher from 6th grade onwards"
 		/>
-		<h2 class="my-2 text-4xl text-gray-300">Musical Awards</h2>
+		<h2 class="my-2 text-4xl">Musical Awards</h2>
 		<Row
 			title="TSSEC Qualifier (2024)"
 			body="Qualified to play at state solo competition"
@@ -37,7 +37,7 @@
 			title="Region Orchestra Member (2021-2024)"
 			body="Auditioned into All-Region orchestra 4 years in a row"
 		/>
-		<h2 class="my-2 text-4xl text-gray-300">Test Scores</h2>
+		<h2 class="my-2 text-4xl">Test Scores</h2>
 		<Row title="AP Scores" body="5's: AP Human Geography" />
 		<Row
 			title="Standardized Test Scores"
