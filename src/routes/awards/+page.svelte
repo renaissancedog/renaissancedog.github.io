@@ -14,6 +14,10 @@
 			title="1st Place, AMC 10, Reagan High School (2023, 2024)"
 			body="Scored highest on the AMC 10 at Reagan"
 		/>
+		<Row
+			title="UIL Mathematics, Number Sense, and Calculator Applications Regional Qualifier (2024)"
+			body="Placed in top 3 individually in all 3 events at a competitive District meet"
+		/>
 		<h2 class="my-2 text-4xl">Computer Science Awards</h2>
 		<Row
 			title="USACO Silver"
@@ -43,6 +47,9 @@
 			title="Standardized Test Scores"
 			body="PSAT/NMSQT: 1500 (Math 760, R&W 740) October 2024 <br> PSAT 8/9: 1440 (Math 720, R&W 720, perfect score) October 2023"
 		/>
-		<Row title="AMC/AIME Scores" body="2024 AIME I: 5<br>2024 AMC 10A: 103.5" />
+		<Row
+			title="AMC/AIME Scores"
+			body="2023 AMC 10A: 103.5<br>2024 AIME I: 5<br>2024 AMC 10A: 103.5"
+		/>
 	</div>
 </main>

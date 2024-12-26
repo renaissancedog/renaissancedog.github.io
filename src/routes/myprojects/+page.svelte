@@ -11,24 +11,9 @@
 		body="An app to keep track of the bell schedule!"
 	/>
 	<Project
-		link="https://samathcircle.github.io"
-		title="San Antonio Math Circle Website"
-		body="The official website of the San Antonio Math Circle"
-	/>
-	<Project
 		link="https://renaissancedog.github.io/projects/blackjack.html"
 		title="Blackjack"
 		body="A simple Blackjack implementation in JS"
-	/>
-	<Project
-		link="https://github.com/renaissancedog/cp-solutions"
-		title="Competitive Programming Solutions"
-		body="Solutions I wrote in Java - primarily USACO, also some DSA and UIL"
-	/>
-	<Project
-		link="https://renaissancedog.github.io/rrcsclub/"
-		title="Reagan Computer Science Club Website"
-		body="School Club website rebuilt with Svelte"
 	/>
 	<Project
 		link="https://reagan-uil.github.io"
@@ -39,5 +24,20 @@
 		link="https://renaissancedog.github.io/projects/cookie.html"
 		title="Cookie Clicker"
 		body="My first web app - written in basic JS"
+	/>
+	<Project
+		link="https://github.com/renaissancedog/cp-solutions"
+		title="Competitive Programming Solutions"
+		body="Solutions I wrote in Java - primarily USACO, also some DSA and UIL"
+	/>
+	<Project
+		link="https://samathcircle.github.io"
+		title="San Antonio Math Circle Website"
+		body="The official website of the San Antonio Math Circle"
+	/>
+	<Project
+		link="https://renaissancedog.github.io/rrcsclub/"
+		title="Reagan Computer Science Club Website"
+		body="School Club website rebuilt with Svelte"
 	/>
 </main>

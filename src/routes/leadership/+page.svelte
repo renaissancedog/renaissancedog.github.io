@@ -3,9 +3,7 @@
 </script>
 
 <main class="m-auto w-full text-xl lg:w-1/2">
-	<h1 class="mb-2 text-center text-5xl font-bold">
-		Leadership Positions
-	</h1>
+	<h1 class="mb-2 text-center text-5xl font-bold">Leadership Positions</h1>
 	<Row
 		title="San Antonio Math Circle Co-Founder, Webmaster (2024)"
 		body="Founded a competitive math circle with friends"
