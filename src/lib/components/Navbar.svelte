@@ -15,8 +15,8 @@
 		class="flex cursor-pointer flex-col items-center sm:flex-row sm:space-x-8"
 	>
 		<a href="{base}/">HOME</a>
+		<a href="{base}/myprojects">PROJECTS</a>
 		<a href="{base}/awards">AWARDS</a>
 		<a href="{base}/leadership">LEADERSHIP</a>
-		<a href="{base}/myprojects">PROJECTS</a>
 	</nav>
 </div>

@@ -16,6 +16,11 @@
 		body="A simple Blackjack implementation in JS"
 	/>
 	<Project
+		link="https://renaissancedog.github.io/welsh-or-c"
+		title="Welsh or C?"
+		body="A game that makes fun of C naming conventions"
+	/>
+	<Project
 		link="https://reagan-uil.github.io"
 		title="Reagan HS UIL Website"
 		body="Our school UIL team's webpage"
