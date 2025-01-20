@@ -7,7 +7,7 @@
 <svelte:head>
   <title>William Liu</title>
 </svelte:head>
-<div class="min-h-full bg-sky-50 text-black">
+<div class="min-h-full bg-white text-black">
   <Navbar {base} />
   <slot></slot>
 </div>
