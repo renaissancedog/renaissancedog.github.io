@@ -2,7 +2,7 @@
   import Row from '../lib/components/Row.svelte';
 </script>
 
-<main class="m-auto w-full text-xl lg:w-1/2">
+<main class="m-auto w-full space-y-4 text-xl lg:w-1/2">
   <h1 class="mb-4 text-center text-5xl font-bold">About Me!</h1>
   <Row
     title="My Education"
@@ -13,8 +13,18 @@
     body="I am interested in most STEM-related fields, but I especially enjoy mathematics (algebra and probability in particular) and computer science (check out
 		 <a class=underline target=_blank href=https://github.com/renaissancedog>my GitHub!</a>)"
   />
+  <p>And some stuff I do for fun:</p>
   <Row
-    title="My Hobbies"
-    body="In my free time, I like to read, play violin, run, swim, play video games, and sleep."
+    title="Violin"
+    body="I'm an orchestra kid. Currently learning the Butterfly Lovers' Concerto!"
   />
+  <Row
+    title="Swimming"
+    body="I was on the school swim team for a year (we don't talk about my times though). I was also named the MVP of my summer league team."
+  />
+  <Row
+    title="Exercise in general"
+    body="Personal bests: 22 minute 5K, ~6:30 minute mile, 11 pull-ups, 36 push-ups"
+  />
+  <Row title="Playing The Game" body="I just lost - and so did you!" />
 </main>

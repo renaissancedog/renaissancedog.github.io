@@ -4,7 +4,7 @@
 
 <main class="m-auto w-full text-xl lg:w-1/2">
   <h1 class="mb-8 text-center text-5xl font-bold">Awards</h1>
-  <div class="text-center md:text-left">
+  <div class="space-y-4 text-center md:text-left">
     <h2 class="my-2 text-4xl">Mathematical Awards</h2>
     <Row
       title="AIME Qualifier (2023, 2024)"

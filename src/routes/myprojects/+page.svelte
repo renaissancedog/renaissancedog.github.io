@@ -2,7 +2,7 @@
   import Project from '../../lib/components/Project.svelte';
 </script>
 
-<main class="m-auto w-full text-xl lg:w-1/2">
+<main class="m-auto w-full space-y-4 text-xl lg:w-1/2">
   <h1 class="mb-2 text-center text-5xl font-bold">Projects</h1>
   <p class="mb-2 ml-2 text-xl">Stuff that I've built.</p>
   <Project
