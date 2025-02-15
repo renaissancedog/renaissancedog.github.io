@@ -26,5 +26,5 @@
     title="Exercise in general"
     body="Personal bests: 22 minute 5K, ~6:30 minute mile, 11 pull-ups, 36 push-ups"
   />
-  <Row title="Playing The Game" body="I just lost - and so did you!" />
+  <Row title="Playing The Game" body="You just lost" />
 </main>

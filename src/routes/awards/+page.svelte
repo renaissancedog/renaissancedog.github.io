@@ -49,7 +49,7 @@
     />
     <Row
       title="AMC/AIME Scores"
-      body="2023 AMC 10A: 103.5<br>2024 AIME I: 5<br>2024 AMC 10A: 103.5"
+      body="2024 AMC 10A: 103.5<br>2025 AIME I: 5"
     />
   </div>
 </main>
