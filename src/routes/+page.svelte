@@ -20,7 +20,7 @@
   />
   <Row
     title="Swimming"
-    body="I was on the school swim team for a year (we don't talk about my times though). I was also named the MVP of my summer league team."
+    body="I was on the school swim team for a year (we don't talk about my times though). I've also done summer league swimming for 6 years."
   />
   <Row
     title="Exercise in general"

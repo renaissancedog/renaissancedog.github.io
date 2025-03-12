@@ -11,29 +11,19 @@
     body="An app to keep track of the bell schedule!"
   />
   <Project
-    link="https://renaissancedog.github.io/projects/blackjack.html"
-    title="Blackjack"
-    body="A simple Blackjack implementation in JS"
-  />
-  <Project
-    link="https://renaissancedog.github.io/welsh-or-c"
-    title="Welsh or C?"
-    body="A game that makes fun of C naming conventions"
-  />
-  <Project
-    link="https://reagan-uil.github.io"
-    title="Reagan HS UIL Website"
-    body="Our school UIL team's webpage"
-  />
-  <Project
-    link="https://renaissancedog.github.io/projects/cookie.html"
-    title="Cookie Clicker"
-    body="My first web app - written in basic JS"
+    link="https://renaissancedog.github.io/qrcode/"
+    title="QR Code Generator"
+    body="Tired of annoying Internet QR code generators? Use mine! It's free, ad-free, intuitive, and definitely doesn't look like it's from 2005!"
   />
   <Project
     link="https://github.com/renaissancedog/cp-solutions"
     title="Competitive Programming Solutions"
     body="Solutions I wrote in Java - primarily USACO, also some DSA and UIL"
+  />
+  <Project
+    link="https://reagan-uil.github.io"
+    title="Reagan HS UIL Website"
+    body="Our school UIL team's webpage"
   />
   <Project
     link="https://samathcircle.github.io"

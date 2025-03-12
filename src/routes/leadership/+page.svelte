@@ -20,8 +20,4 @@
     title="Webmaster, Reagan UIL Team (2024-present)"
     body="Maintains team website"
   />
-  <Row
-    title="Co-Founder, Renaissance Dog Walkers (2022-2023)"
-    body="Started and managed a dog-walking business with friends"
-  />
 </main>

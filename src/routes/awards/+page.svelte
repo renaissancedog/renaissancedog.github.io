@@ -34,7 +34,7 @@
     />
     <h2 class="my-2 text-4xl">Musical Awards</h2>
     <Row
-      title="TSSEC Qualifier (2024)"
+      title="TSSEC Qualifier (2024, 2025)"
       body="Qualified to play at state solo competition"
     />
     <Row
@@ -47,9 +47,6 @@
       title="Standardized Test Scores"
       body="PSAT/NMSQT: 1500 (Math 760, R&W 740) October 2024 <br> PSAT 8/9: 1440 (Math 720, R&W 720, perfect score) October 2023"
     />
-    <Row
-      title="AMC/AIME Scores"
-      body="2024 AMC 10A: 103.5<br>2025 AIME I: 5"
-    />
+    <Row title="AMC/AIME Scores" body="2024 AMC 10A: 103.5<br>2025 AIME I: 5" />
   </div>
 </main>
