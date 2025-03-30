@@ -20,7 +20,7 @@
     </div>
     <img
       class="m-2 max-h-[500px] rounded-2xl border-8"
-      src="me.png"
+      src="me.jpg"
       alt="A selfie of me!"
     />
   </div>
