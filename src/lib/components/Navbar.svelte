@@ -1,22 +1,21 @@
-<script>
-  export let base;
-</script>
-
 <div
-  class="p-auto flex h-auto flex-col items-center justify-center p-4 text-center text-2xl"
+  class="sticky top-0 z-50 mx-auto flex h-auto w-screen flex-row items-center justify-between bg-yellow-100 p-4 px-12 text-center text-2xl"
 >
-  <a
-    href="{base}/"
-    class="mb-4 max-w-fit rounded-lg border-2 border-solid border-black p-2 text-3xl"
-  >
-    <h2>William Liu</h2>
-  </a>
   <nav
     class="flex cursor-pointer flex-col items-center sm:flex-row sm:space-x-8"
   >
-    <a href="{base}/">HOME</a>
-    <a href="{base}/myprojects">PROJECTS</a>
-    <a href="{base}/awards">AWARDS</a>
-    <a href="{base}/leadership">LEADERSHIP</a>
+    <a href="#about"> About </a>
+    <a href="#skills"> Skills </a>
+    <a href="#projects">Projects</a>
   </nav>
+  <div class="space-x-12">
+    <a aria-label="my GitHub" href="https://github.com/renaissancedog">
+      <iconify-icon icon="skill-icons:github-dark" width="64" height="64"
+      ></iconify-icon></a
+    >
+    <a aria-label="My Resume" href="Resume-JiyangLiu.pdf">
+      <iconify-icon icon="material-symbols:docs" width="64" height="64"
+      ></iconify-icon></a
+    >
+  </div>
 </div>
