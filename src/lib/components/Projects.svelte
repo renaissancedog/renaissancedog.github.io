@@ -37,10 +37,22 @@
       link="https://github.com/renaissancedog/tmea"
     />
     <ProjectCard
+      name="Reagan Academic UIL Website"
+      body="The official website of our team - built from scratch."
+      lang="Typescript, Svelte, Tailwind"
+      link="https://reagan-uil.github.io/"
+    />
+    <ProjectCard
       name="Budget Cookie Clicker"
       body="A relic of the past - it's the first programming project I ever made! Very buggy."
       lang="HTML, CSS, Javascript"
       link="https://renaissancedog.github.io/projects/cookie.html"
+    />
+    <ProjectCard
+      name="My personal website"
+      body="You're looking at it!"
+      lang="Svelte, Tailwind"
+      link="https://github.com/renaissancedog/renaissancedog.github.io"
     />
   </div>
 </div>

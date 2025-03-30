@@ -1,5 +1,5 @@
 <div
-  class="sticky top-0 z-50 mx-auto flex h-auto w-screen flex-row items-center justify-between bg-yellow-100 p-4 px-12 text-center text-2xl"
+  class="sticky top-0 z-50 mx-auto flex h-auto min-h-[110px] w-screen flex-row items-center justify-between bg-yellow-100 p-4 px-12 text-center text-2xl"
 >
   <nav
     class="flex cursor-pointer flex-col items-center sm:flex-row sm:space-x-8"

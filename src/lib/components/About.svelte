@@ -3,7 +3,7 @@
   class="mx-auto mt-20 w-full border-y-8 border-black bg-yellow-400 px-6 py-8 text-lg font-semibold"
 >
   <h3 class="mx-auto mt-4 mb-20 text-center text-5xl font-black">About Me</h3>
-  <div class="flex flex-col justify-center min-[450px]:flex-row">
+  <div class="flex flex-col-reverse justify-center min-[450px]:flex-row">
     <div
       class="relative m-2 mb-2 flex min-h-[600px] flex-col justify-center rounded-2xl border-8 border-black bg-purple-300 px-6 py-8 text-lg font-semibold drop-shadow-2xl xl:mt-0 xl:w-1/3"
     >
