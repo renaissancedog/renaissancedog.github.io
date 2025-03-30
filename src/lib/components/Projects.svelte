@@ -37,6 +37,12 @@
       link="https://github.com/renaissancedog/tmea"
     />
     <ProjectCard
+      name="Currency Converter"
+      body="A simple converter made for a comp sci class project."
+      lang="Java"
+      link="https://github.com/renaissancedog/currency-converter"
+    />
+    <ProjectCard
       name="Reagan Academic UIL Website"
       body="The official website of our team - built from scratch."
       lang="Typescript, Svelte, Tailwind"
