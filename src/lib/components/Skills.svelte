@@ -14,7 +14,7 @@
   <SkillCard name="Svelte" id="svelte" />
   <SkillCard name="Tailwind" id="tailwindcss-dark" />
   <SkillCard name="Vite" id="vite-dark" />
-  <SkillCard name="PNPM" id="pnpm-dark" />
+  <SkillCard name="pnpm" id="pnpm-dark" />
   <SkillCard name="Python" id="python-dark" />
   <SkillCard name="Java" id="java-dark" />
   <SkillCard name="Git" id="git" />
