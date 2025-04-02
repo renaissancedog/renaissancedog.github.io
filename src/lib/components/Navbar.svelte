@@ -3,7 +3,8 @@
 >
   <nav
     class="flex cursor-pointer flex-col items-center sm:flex-row sm:space-x-8"
-  >
+  > 
+    <a href="#header"> Home </a>
     <a href="#about"> About </a>
     <a href="#skills"> Skills </a>
     <a href="#projects">Projects</a>
