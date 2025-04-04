@@ -25,14 +25,8 @@
       link="https://renaissancedog.github.io/qrcode/"
     />
     <ProjectCard
-      name="Weather App"
-      body="An app that tells you the weather anywhere in the world."
-      lang="Javascript, Tailwind, Svelte"
-      link="https://renaissancedog.github.io/weather/"
-    />
-    <ProjectCard
       name="TMEA Webscraper"
-      body="A simple tool to get audition results from the TMEA website."
+      body="A tool to get audition results from the TMEA website."
       lang="Python"
       link="https://github.com/renaissancedog/tmea"
     />
