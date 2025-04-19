@@ -31,6 +31,12 @@
       link="https://github.com/renaissancedog/tmea"
     />
     <ProjectCard
+      name="Competitive Programming Solutions"
+      body="A collection of my solutions to competitive programming problems."
+      lang="Java"
+      link="https://github.com/renaissancedog/cp-solutions"
+    />
+    <ProjectCard
       name="Currency Converter"
       body="A simple converter made for a comp sci class project."
       lang="Java"
