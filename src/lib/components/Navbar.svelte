@@ -14,7 +14,7 @@
       <iconify-icon icon="skill-icons:github-dark" width="64" height="64"
       ></iconify-icon></a
     >
-    <a aria-label="My Resume" href="Resume-WilliamLiu-Public.pdf">
+    <a aria-label="My Resume" href="Resume-WilliamLiu.pdf">
       <iconify-icon icon="material-symbols:docs" width="64" height="64"
       ></iconify-icon></a
     >
