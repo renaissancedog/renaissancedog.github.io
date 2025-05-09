@@ -25,6 +25,12 @@
       link="https://renaissancedog.github.io/qrcode/"
     />
     <ProjectCard
+      name="Automated Attendance System"
+      body="A system to automatically log attendance into a point logger. Made for the Reagan HS Mu Alpha Theta math honor society."
+      lang="Python"
+      link="https://github.com/renaissancedog/attendance-tracker"
+    />
+    <ProjectCard
       name="TMEA Webscraper"
       body="A tool to get audition results from the TMEA website."
       lang="Python"
@@ -35,24 +41,6 @@
       body="A collection of my solutions to competitive programming problems."
       lang="Java"
       link="https://github.com/renaissancedog/cp-solutions"
-    />
-    <ProjectCard
-      name="Currency Converter"
-      body="A simple converter made for a comp sci class project."
-      lang="Java"
-      link="https://github.com/renaissancedog/currency-converter"
-    />
-    <ProjectCard
-      name="Reagan Academic UIL Website"
-      body="The official website of our team - built from scratch."
-      lang="Typescript, Svelte, Tailwind"
-      link="https://reagan-uil.github.io/"
-    />
-    <ProjectCard
-      name="Budget Cookie Clicker"
-      body="A relic of the past - it's the first programming project I ever made! Very buggy."
-      lang="HTML, CSS, Javascript"
-      link="https://renaissancedog.github.io/projects/cookie.html"
     />
     <ProjectCard
       name="My personal website"
