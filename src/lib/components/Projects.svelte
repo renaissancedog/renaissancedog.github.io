@@ -19,6 +19,12 @@
       lang="Javascript, Tailwind, Svelte"
     />
     <ProjectCard
+      name="Reagan GPA Calculator"
+      body="Self-explanatory - a GPA calculator for those like myself too lazy to do it by hand."
+      link="https://renaissancedog.github.io/gpa-calculator/"
+      lang="Javascript, Tailwind, Svelte"
+    />
+    <ProjectCard
       name="QR Code Generator"
       body="Tired of annoying Internet QR code generators? Use mine! It's free, ad-free, intuitive, and definitely doesn't look like it's from 2005!"
       lang="Javascript, Tailwind"
