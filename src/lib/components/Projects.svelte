@@ -2,7 +2,7 @@
   import ProjectCard from './ProjectCard.svelte';
 </script>
 
-<div class="mt-8 border-y-8 bg-purple-300">
+<div class="border-b-8 bg-yellow-100 pb-4">
   <h3
     id="projects"
     class="mx-auto mt-4 mb-20 p-8 text-center text-5xl font-black"
