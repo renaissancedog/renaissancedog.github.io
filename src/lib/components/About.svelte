@@ -3,7 +3,7 @@
   class="mx-auto border-b-8 border-black bg-yellow-400 px-6 py-8 text-lg font-semibold"
 >
   <h3 class="mx-auto mt-4 mb-20 text-center text-5xl font-black">About Me</h3>
-  <div class="flex flex-col-reverse justify-center min-[800px]:flex-row">
+  <div class="flex flex-col-reverse justify-center min-[900px]:flex-row">
     <div
       class="relative m-2 justify-center rounded-2xl border-8 border-black bg-purple-300 px-6 py-8 text-lg font-semibold drop-shadow-2xl"
     >
@@ -16,7 +16,7 @@
         as analysis, linear algebra, combinatorics, number theory, and probability.
         I am currently preparing to help write a research paper (on scissors congruence
         in higher dimensions) as part of Texas A&M's PReMa program. I have also qualified
-        for the AIME twice and won awards competing in various math competitions
+        for the AIME three times and won awards competing in various math competitions
         (such as the AMC series, the Stanford Math Tournament, and UIL.)
         <br /> <br />
         I like to create all types of things, both physically and digitally, to bring
@@ -42,9 +42,9 @@
       </p>
     </div>
     <img
-      class="m-2 max-h-[800px] max-w-[550px] rounded-2xl border-8"
+      class="m-2 max-h-[600px] max-w-[600px] rounded-2xl border-8"
       src="me.jpeg"
-      alt="Me hugging a tree"
+      alt="Me on a beach"
     />
   </div>
 </div>
