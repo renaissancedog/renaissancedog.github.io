@@ -17,7 +17,8 @@ export default [
       }
     },
     rules: {
-      'svelte/no-at-html-tags': 'warn'
+      'svelte/no-at-html-tags': 'warn',
+      'svelte/no-navigation-without-resolve': 'warn'
     }
   },
   {

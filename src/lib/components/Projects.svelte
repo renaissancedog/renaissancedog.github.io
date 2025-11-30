@@ -32,9 +32,10 @@
     />
     <ProjectCard
       name="Automated Attendance System"
-      body="A system to automatically log attendance into a point logger. Made for the Reagan HS Mu Alpha Theta math honor society."
+      body="A system to automatically keep track of attendance. Made for the Reagan HS Mu Alpha Theta math honor society. 
+      Implemented because I was too lazy to spend 10 minutes counting attendance and chose to spend an hour making this instead."
       lang="Python"
-      link="https://github.com/renaissancedog/attendance-tracker"
+      link="https://github.com/renaissancedog/mu-alpha-theta-scripts"
     />
     <ProjectCard
       name="TMEA Webscraper"
