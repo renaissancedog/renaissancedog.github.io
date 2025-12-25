@@ -31,13 +31,6 @@
       link="https://renaissancedog.github.io/qrcode/"
     />
     <ProjectCard
-      name="Automated Attendance System"
-      body="A system to automatically keep track of attendance. Made for the Reagan HS Mu Alpha Theta math honor society. 
-      Implemented because I was too lazy to spend 10 minutes counting attendance and chose to spend an hour making this instead."
-      lang="Python"
-      link="https://github.com/renaissancedog/mu-alpha-theta-scripts"
-    />
-    <ProjectCard
       name="TMEA Webscraper"
       body="A tool to get audition results from the TMEA website."
       lang="Python"
