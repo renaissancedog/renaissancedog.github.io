@@ -22,6 +22,6 @@
   <p
     class="font-paragraph mx-auto p-8 text-center text-xl tracking-wide sm:text-2xl md:w-2/3 lg:text-3xl"
   >
-    Student, Thinker, Maker, Learner
+    Creator, Explorer, Learner
   </p>
 </div>
