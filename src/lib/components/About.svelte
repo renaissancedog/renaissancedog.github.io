@@ -8,7 +8,7 @@
       class="relative m-2 justify-center rounded-2xl border-8 border-black bg-purple-300 px-6 py-8 text-lg font-semibold drop-shadow-2xl"
     >
       <p>
-        Hello! I’m William, a high school junior who loves to learn about our
+        Hello! I’m William, a high school senior who loves to learn about our
         world.
         <br /> <br />
         I'm extremely interested in all types of mathematics. Beyond the typical high-school
@@ -38,8 +38,8 @@
     </div>
     <img
       class="m-2 max-h-[600px] max-w-[600px] rounded-2xl border-8"
-      src="me.jpeg"
-      alt="Me on a beach"
+      src="me.jpg"
+      alt="Me on a park bench"
     />
   </div>
 </div>
