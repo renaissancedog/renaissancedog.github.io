@@ -37,7 +37,7 @@
       </p>
     </div>
     <img
-      class="m-2 max-h-[600px] max-w-[600px] rounded-2xl border-8"
+      class="m-2 rounded-2xl max-w-[500px] border-8"
       src="me.jpg"
       alt="Me on a park bench"
     />
