@@ -20,7 +20,7 @@
     </div>
   </div>
   <p
-    class="font-paragraph mx-auto p-8 text-center text-xl tracking-wide sm:text-2xl md:w-2/3 lg:text-3xl"
+    class="font-paragraph mx-auto p-8 text-center text-xl tracking-wide italic sm:text-2xl md:w-2/3 lg:text-3xl"
   >
     Creator, Explorer, Learner
   </p>
