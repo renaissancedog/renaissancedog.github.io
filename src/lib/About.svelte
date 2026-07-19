@@ -1,0 +1,45 @@
+<div
+  id="about"
+  class="mx-auto border-b-8 border-black bg-blue-300 px-6 py-8 text-lg font-semibold"
+>
+  <h3 class="mx-auto pt-15 pb-10 text-center text-5xl font-black">About Me</h3>
+  <div class="flex flex-col-reverse justify-center min-[1500px]:flex-row">
+    <div
+      class="relative m-2 justify-center rounded-2xl border-8 border-black bg-white px-6 py-8 text-lg font-semibold drop-shadow-2xl"
+    >
+      <p>
+        Hello! I’m William, a high school senior who loves to learn about our
+        world.
+        <br /> <br />
+        I'm extremely interested in all types of mathematics. Beyond the typical high-school
+        curriculum, I enjoy studying all sorts of advanced math, such as combinatorics,
+        number theory, and probability. I have also qualified for the AIME three times
+        and won awards competing in various math competitions (such as the AMC series,
+        the Stanford Math Tournament, and UIL.)
+        <br /> <br />
+        I like to create things that bring ideas to life, from circuits to webscrapers
+        and lots of things in between. (See some examples below!) I'm currently learning
+        about data structures and algorithms to help myself create a larger variety
+        of projects. I also compete in the silver division of the USACO programming
+        contests.
+        <br /> <br />
+        I believe that knowledge is best used when shared, so I enjoy helping others
+        learn. I have tutored peers in all sorts of STEM fields, and in my positions
+        as an officer of the math honor society and as a leader of a citywide math
+        circle, I work to promote and foster an appreciation of math, as well as of
+        learning in general.
+        <br /> <br />
+        Outside of my adventures in STEM, you’ll probably find me practicing my violin,
+        exercising, reading, watching YouTube (3Blue1Brown, Wendover, and Jet Lag
+        are my favorite channels), or spending time in nature. In the future, I hope
+        to study something STEM-related in college, and eventually become a scientist
+        or engineer to create the ideas that make our world a better place.
+      </p>
+    </div>
+    <img
+      class="m-2 max-w-[500px] rounded-2xl border-8"
+      src="me.jpg"
+      alt="Me on a park bench"
+    />
+  </div>
+</div>

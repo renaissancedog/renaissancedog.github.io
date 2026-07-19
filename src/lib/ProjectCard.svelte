@@ -4,7 +4,7 @@
 </script>
 
 <div
-  class="mb-2 flex w-full flex-col gap-2 rounded-md border-4 border-black bg-yellow-400 p-6 drop-shadow-2xl"
+  class="mb-2 flex w-full flex-col gap-2 rounded-md border-4 border-black bg-blue-300 p-6 drop-shadow-2xl"
 >
   <div>
     <h1 class=" text-3xl font-black">{name}</h1>

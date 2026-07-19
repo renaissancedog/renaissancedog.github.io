@@ -2,8 +2,11 @@
   import SkillCard from './SkillCard.svelte';
 </script>
 
-<div class="bg-purple-300 pb-2">
-  <h3 id="skills" class="mx-auto pt-4 pb-5 text-center text-5xl font-black">
+<div class="bg-blue-300 pb-8">
+  <h3
+    id="skills"
+    class="mx-auto p-8 pt-15 pb-10 text-center text-5xl font-black"
+  >
     Skills
   </h3>
   <div
